@@ -1,1 +1,1 @@
-# Coursera_Capstone.
+This project was created for Coursera Capstone Project by Mehmet ÇÖLGEÇEN.
