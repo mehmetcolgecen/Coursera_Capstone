@@ -1,1 +1,1 @@
-This project was created for Coursera Capstone Project by Mehmet ÇÖLGEÇEN.
+This project was created for Coursera IBM Data Science Capstone Project by Mehmet ÇÖLGEÇEN.
